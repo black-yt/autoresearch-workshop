@@ -33,7 +33,7 @@ Open `http://localhost:8000`.
 - `assets/organizers/`: web-sized organizer portraits. Wanghan Xu's photo uses the portrait provided by the organizer.
 - `assets/favicon.svg`: site mark.
 
-The confirmed organizer roster is Wanghan Xu, Zhenfei Yin, Yingcheng Wu, Ling Yang, Zhaochen Yu, Philip Torr, and Shuicheng Yan. Affiliations and order match the proposal. The two senior organizers appear last.
+Only Wanghan Xu is currently confirmed. The previous organizer roster was withdrawn on October 8, 2026. Six additional organizers and eight speaker candidates are being considered privately; candidates are not listed on this public website before consent.
 
 After acceptance, update the status notice, final date, confirmed invited program, contribution dates, and actual OpenReview submission link together. Keep the site and proposal synchronized. Do not mark candidates as confirmed participants before agreement is obtained.
 
